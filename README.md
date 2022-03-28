@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sicong
 - 👀 I’m fascinated by everything that's mysterious and interesting.
 - 🌱 I’m currently learning Astronomy and Data Science.
-- 💞️ I’m looking to collaborate on astronomy or data science projects.
+- 💞️ I’m looking to collaborate on data science and/or software projects.
 - 📫 Reach me via email: sxh823@miami.edu.
 
 <!---
